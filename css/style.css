@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #1ca31c !important;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    border-radius: 4px;
+    background-color: #E5FCF5 !important;   
+}
