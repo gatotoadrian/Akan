@@ -8,5 +8,24 @@
 
 body{
     border-radius: 4px;
-    background-color: #34ad89 !important;   
+    background: #E5E5E5; !important;   
+}
+
+row{
+    position: absolute;
+width: 240px;
+height: 125px;
+left: 271px;
+top: 579px
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 96px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #210124;
+opacity: 0.9;
+transform: rotate(90deg);
 }
