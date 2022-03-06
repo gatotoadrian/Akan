@@ -1,22 +1,17 @@
 *{
-    margin: 0%;
-    padding: 0%;
-    background: #FEFFFE;
+    margin: 20px;
+    padding: 10px;
+    background: hsl(187, 36%, 73%);
     border-radius: 4px;
     font-family: 'Lato', sans-serif;
 }
 
 body{
     border-radius: 4px;
-    background: #E5E5E5; !important;   
+    background: #b84141; !important;   
 }
 
 row{
-    position: absolute;
-    width: 240px;
-    height: 125px;
-    left: 271px;
-    top: 579px
     font-family: 'Lato', sans-serif;
     font-style: normal;
     font-weight: 600;
