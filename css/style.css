@@ -45,8 +45,8 @@ p1{
 h2{
 
     position: absolute;
-    width: 562px;
-    height: 70px;
+    /* width: 562px; */
+    /* height: 70px; */
     left: 583px;
     top: 73px;
     font-family: Lato;
@@ -62,15 +62,32 @@ h2{
 
 p{
     position: absolute;
-width: 562px;
-height: 144px;
-left: 583px;
-top: 166px;
+    width: 562px;
+    height: 144px;
+    left: 583px;
+    top: 166px;
 
     font-family: Lato;
     font-style: normal;
     font-weight: 500;
-    font-size: 28px;
+    font-size: 25px;
     line-height: 34px;
     color: #210124;
+}
+
+label{
+    position: absolute;
+    width: 406px;
+    height: 54px;
+    left: 583px;
+    top: 391px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    display: flex;
+    align-items: center;
+    color: #210124;
+
 }
