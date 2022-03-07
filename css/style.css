@@ -6,7 +6,6 @@
 
 
 body{
-    position: absolute;
     width: 1728px;
     height: 1080px;
     background: #FEFFFE;
@@ -45,7 +44,6 @@ p1{
 
 
 h2{
-    position: absolute;
     /* width: 562px; */
     /* height: 70px; */
     left: 583px;
@@ -62,12 +60,10 @@ h2{
 }
 
 p{
-    position: absolute;
     width: 562px;
     height: 144px;
     left: 583px;
     top: 166px;
-
     font-family: Lato;
     font-style: normal;
     font-weight: 500;
@@ -76,29 +72,34 @@ p{
     color: #210124;
 }
 
-birthday{
-    position: absolute;
+.birthday{
     width: 406px;
     height: 54px;
     left: 583px;
-    top: 391px;
+    top: 420px;
     font-family: Lato;
     font-style: normal;
     font-weight: 500;
-    font-size: 67px;
+    font-size: 32px;
     line-height: 43px;
     display: flex;
     align-items: center;
-    color: #210124;
+    color: #5e1e64;
 }
 
-button{
-    position: absolute;
+button{;
     width: 562px;
     height: 54px;
     left: 583px;
-    top: 460px;
-
+    top: 420px;
     background: #FEFFFE;
+    border-radius: 4px;
+}
+image{
+    width: 393px;
+    height: 384px;
+    left: 1274px;
+    top: 14px;
+    background: url(image/images.jpeg), url(image/images.jpeg), #C4C4C4;
     border-radius: 4px;
 }
