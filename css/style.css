@@ -1,18 +1,33 @@
 *{
-    margin: 20px;
-    padding: 10px;
-    background: hsl(187, 36%, 73%);
-    border-radius: 4px;
-    font-family: 'Lato', sans-serif;
+    margin: 2mm;
+    padding: 5mm;
+    background: #E5FCF5;
 }
+
 
 body{
+    background: #FEFFFE;
     border-radius: 4px;
-    background: #b84141; !important;   
 }
 
-row{
-    font-family: 'Lato', sans-serif;
+h1{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 115px;
+    line-height: 138px;
+    display: flex;
+    align-items: center;
+    color: #750D37;
+}
+
+p1{
+    position: absolute;
+    left: 271px;
+    top: 550px;
+    width: 240px;
+    height: 20px;
+    font-family: Lato;
     font-style: normal;
     font-weight: 600;
     font-size: 80px;
@@ -23,4 +38,15 @@ row{
     color: #210124;
     opacity: 0.9;
     transform: rotate(90deg);
+}
+h2{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 67px;
+    display: flex;
+    align-items: center;
+    color: #750D37;
+
 }
