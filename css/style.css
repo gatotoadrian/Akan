@@ -1,11 +1,14 @@
 *{
-    margin: 2mm;
-    padding: 5mm;
+    margin: 3mm;
+    padding: 8mm;
     background: #E5FCF5;
 }
 
 
 body{
+    position: absolute;
+    width: 1728px;
+    height: 1080px;
     background: #FEFFFE;
     border-radius: 4px;
 }
@@ -58,6 +61,12 @@ h2{
 }
 
 p{
+    position: absolute;
+width: 562px;
+height: 144px;
+left: 583px;
+top: 166px;
+
     font-family: Lato;
     font-style: normal;
     font-weight: 500;
