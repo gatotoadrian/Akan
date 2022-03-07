@@ -23,10 +23,10 @@ h1{
 
 p1{
     position: absolute;
-    left: 271px;
-    top: 550px;
     width: 240px;
-    height: 20px;
+    height: 125px;
+    left: 271px;
+    top: 420px;
     font-family: Lato;
     font-style: normal;
     font-weight: 600;
@@ -40,6 +40,12 @@ p1{
     transform: rotate(90deg);
 }
 h2{
+
+    position: absolute;
+    width: 562px;
+    height: 70px;
+    left: 583px;
+    top: 73px;
     font-family: Lato;
     font-style: normal;
     font-weight: bold;
