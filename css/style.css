@@ -6,9 +6,10 @@
 
 
 body{
-    width: 1728px;
-    height: 1080px;
-    background: #FEFFFE;
+    /* width: 1728px; */
+    /* height: 1080px; */
+    /* background: #FEFFFE; */
+    background: url(image/images.jpeg), url(image/images.jpeg)
     border-radius: 4px;
 }
 
@@ -73,21 +74,23 @@ p{
 }
 
 .birthday{
+    /* margin-right: 32px !important; */
+    text-align: left;
     width: 406px;
     height: 54px;
     left: 583px;
     top: 420px;
     font-family: Lato;
     font-style: normal;
-    font-weight: 500;
-    font-size: 32px;
-    line-height: 43px;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 10px;
     display: flex;
     align-items: center;
     color: #5e1e64;
 }
 
-button{;
+button{
     width: 562px;
     height: 54px;
     left: 583px;
@@ -102,4 +105,10 @@ image{
     top: 14px;
     background: url(image/images.jpeg), url(image/images.jpeg), #C4C4C4;
     border-radius: 4px;
+}
+.output{
+    font-size: 48px;
+    font-weight: 700;
+    color: #750D37;
+    text-align: center;
 }
