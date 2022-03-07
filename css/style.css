@@ -42,8 +42,9 @@ p1{
     opacity: 0.9;
     transform: rotate(90deg);
 }
-h2{
 
+
+h2{
     position: absolute;
     /* width: 562px; */
     /* height: 70px; */
